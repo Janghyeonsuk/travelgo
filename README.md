@@ -1,6 +1,8 @@
 <div align="center">
 
+![image](https://github.com/user-attachments/assets/93d0c511-b01c-473c-a9a4-0a879d4d8276)
 # 🏝️ 2024 관광데이터 활용 공모전 참가작  
+<br>
 
 [![image](https://github.com/user-attachments/assets/77bd835a-7bef-4740-9451-e2ff0efee288)](https://apps.apple.com/kr/app/treg/id6478799797)  
 📌 **이미지를 클릭하면 앱스토어로 이동합니다**  
